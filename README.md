@@ -1,6 +1,6 @@
-# mobile dev tech test
+# Mobile developer tech test
 
-## What to do
+## What to do?
 You have been asked by one of our clients to develop an product store mobile application. 
 
 ## Before everything
