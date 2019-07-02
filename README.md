@@ -1,4 +1,4 @@
-# mobile-dev-tech-test
+# mobile dev tech test
 
 ## What to do
 You have been asked by one of our clients to develop an product store mobile application. 
