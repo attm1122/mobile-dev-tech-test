@@ -35,5 +35,17 @@ Use our api to add and view the products.
 #### GET One product
  - get https://paloit-products.azurewebsites.net/products/{id}
  >> example get https://paloit-products.azurewebsites.net/products/1
+ 
+#### POST Product
+ - post https://paloit-products.azurewebsites.net/products/
+ - example body:
+ ```$json
+    {
+        "name": "Soup",
+        "price": 11.90,
+        "description": "Tomato soup.",
+        "image": "base64:fklkfglkjfg..."
+    }
+ ```
 
  
