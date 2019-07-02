@@ -6,7 +6,7 @@ You have been asked by one of our clients to develop an product store mobile app
 ## Before everything
 Create a new branch from master with your name
 
-## Stories
+## Tasks
 Please navigate to the projects tab and open the Product App stories. Complete as much stories as possible.
 - Move the story in progress column when working on it
 - Move the story in done column when done with it
@@ -17,6 +17,23 @@ __Do not go crazy__
 - We prefer test over documentation
 - We prefer quality over quantity
 - Simplicity first
+- Focus on tasks no extras
 - SOLID Principles
 
+## Api
+Use our api to add and view the products.
 
+### Base Endpoint
+[https://paloit-products.azurewebsites.net/](https://paloit-products.azurewebsites.net/)
+
+### Products Endpoint
+[https://paloit-products.azurewebsites.net/products](https://paloit-products.azurewebsites.net/products)
+
+#### GET All Products
+ - get https://paloit-products.azurewebsites.net/products
+
+#### GET One product
+ - get https://paloit-products.azurewebsites.net/products/{id}
+ >> example get https://paloit-products.azurewebsites.net/products/1
+
+ 
