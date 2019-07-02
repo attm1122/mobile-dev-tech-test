@@ -37,6 +37,7 @@ Use our api to add and view the products.
  >> example get https://paloit-products.azurewebsites.net/products/1
  
 #### POST Product
+ __important__ images must be of base64 encoding no __URL__
  - post https://paloit-products.azurewebsites.net/products/
  - example body:
  ```$json
