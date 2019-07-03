@@ -7,7 +7,7 @@ You have been asked by one of our clients to develop an product store mobile app
 Create a new branch from master with your name
 
 ## Tasks
-Please navigate to the **projects tab** and open the Product App stories. Complete as much stories as possible.
+Please navigate to the [__Project__](https://github.com/Palo-IT-Australia/mobile-dev-tech-test/projects/1). Complete as much stories as possible.
 - Move the story in progress column when working on it
 - Move the story in done column when done with it
 
